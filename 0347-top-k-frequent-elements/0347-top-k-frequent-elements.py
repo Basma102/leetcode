@@ -6,11 +6,11 @@ class Solution(object):
             count[num]=count.get(num,0)+1
         for num,cnt in count.items():
             freq[cnt].append(num)
-        res=[]
+        res=[]    
         for i in range(len(freq)-1,0,-1):
             for j in freq[i]:
                 res.append(j)
                 if len(res)== k:
                     return res
-
+  
         
