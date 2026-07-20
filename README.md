@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Basma102/leetcode/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/Basma102/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
