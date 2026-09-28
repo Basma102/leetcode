@@ -46,5 +46,6 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/Basma102/leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Basma102/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/Basma102/leetcode/tree/master/0184-department-highest-salary) |
 | [1068-product-sales-analysis-i](https://github.com/Basma102/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
