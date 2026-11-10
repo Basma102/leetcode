@@ -53,6 +53,7 @@
 | [0185-department-top-three-salaries](https://github.com/Basma102/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Basma102/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Basma102/leetcode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/Basma102/leetcode/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/Basma102/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Basma102/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Basma102/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
