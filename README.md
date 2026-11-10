@@ -53,6 +53,7 @@
 | [0185-department-top-three-salaries](https://github.com/Basma102/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Basma102/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Basma102/leetcode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Basma102/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Basma102/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Basma102/leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Basma102/leetcode/tree/master/1068-product-sales-analysis-i) |
