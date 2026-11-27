@@ -61,6 +61,7 @@
 | [0585-investments-in-2016](https://github.com/Basma102/leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Basma102/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Basma102/leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Basma102/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/Basma102/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Basma102/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Basma102/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
